@@ -1,4 +1,4 @@
-Cześć, stworzyłem prostą przychodznię internetową. 
+/*Cześć, stworzyłem prostą przychodznię internetową. 
 Ogólny zarys funkcjonalności:
 
 - strona główna ogólnodostępna, aby przejść do panelu należy się
@@ -19,3 +19,4 @@ gabinetami(edycja), podejrzeć zgłoszone wizyty oraz recepty.
 
 email: admin@gabmed.pl
 hasło: test
+*/
